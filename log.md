@@ -10889,3 +10889,6 @@
 ## 2026-01-02 - Perbaiki komentar [2026-01-02] #16
 - Entry
 
+## 2026-01-02 - Tambah contoh penggunaan [2026-01-02] #17
+- Entry
+
