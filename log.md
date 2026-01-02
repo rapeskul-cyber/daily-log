@@ -10892,3 +10892,6 @@
 ## 2026-01-02 - Tambah contoh penggunaan [2026-01-02] #17
 - Entry
 
+## 2026-01-02 - Setup environment [2026-01-02] #18
+- Entry
+
