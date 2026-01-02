@@ -8,3 +8,6 @@
 
 ## 2026-01-01 - Dokumentasi API [2026-01-01] #3
 - Entry
+
+## 2026-01-02 - Update README [2026-01-02] #1
+- Entry
