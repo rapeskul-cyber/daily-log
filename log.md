@@ -20,3 +20,6 @@
 
 ## 2026-01-03 - Fix bug kecil [2026-01-03] #1
 - Entry
+
+## 2026-01-03 - Review & rapikan kode [2026-01-03] #2
+- Entry
