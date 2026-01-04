@@ -26,3 +26,6 @@
 
 ## 2026-01-03 - Fix bug kecil [2026-01-03] #3
 - Entry
+
+## 2026-01-04 - Update README [2026-01-04] #1
+- Entry
