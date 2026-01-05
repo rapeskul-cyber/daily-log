@@ -11030,3 +11030,6 @@
 ## 2026-01-05 - Review & rapikan kode [2026-01-05] #15
 - Entry
 
+## 2026-01-05 - Setup environment [2026-01-05] #16
+- Entry
+
