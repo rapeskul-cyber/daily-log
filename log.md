@@ -38,3 +38,6 @@
 
 ## 2026-01-05 - Catat ide project [2026-01-05] #1
 - Entry
+
+## 2026-01-05 - Debug issue [2026-01-05] #2
+- Entry
