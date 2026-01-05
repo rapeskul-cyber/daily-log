@@ -35,3 +35,6 @@
 
 ## 2026-01-04 - Review & rapikan kode [2026-01-04] #3
 - Entry
+
+## 2026-01-05 - Catat ide project [2026-01-05] #1
+- Entry
