@@ -11093,3 +11093,6 @@
 ## 2026-01-06 - Tambah unit test [2026-01-06] #20
 - Entry
 
+## 2026-01-06 - Update README [2026-01-06] #21
+- Entry
+
