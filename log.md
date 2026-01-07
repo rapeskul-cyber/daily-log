@@ -56,3 +56,6 @@
 
 ## 2026-01-07 - Review & rapikan kode [2026-01-07] #1
 - Entry
+
+## 2026-01-07 - Perbaiki typo [2026-01-07] #2
+- Entry
