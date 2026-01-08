@@ -2609,3 +2609,6 @@
 ## 2026-01-08 - Baca dokumentasi baru [2026-01-08] #11
 - Entry
 
+## 2026-01-08 - Dokumentasi API [2026-01-08] #12
+- Entry
+
