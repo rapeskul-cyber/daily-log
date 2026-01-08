@@ -62,3 +62,6 @@
 
 ## 2026-01-07 - Update dependency [2026-01-07] #3
 - Entry
+
+## 2026-01-08 - Setup environment [2026-01-08] #1
+- Entry
