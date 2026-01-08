@@ -2600,3 +2600,6 @@
 ## 2026-01-08 - Review & rapikan kode [2026-01-08] #8
 - Entry
 
+## 2026-01-08 - Tambah unit test [2026-01-08] #9
+- Entry
+
