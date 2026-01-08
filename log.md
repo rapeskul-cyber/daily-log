@@ -2588,3 +2588,6 @@
 ## 2026-01-08 - Dokumentasi API [2026-01-08] #4
 - Entry
 
+## 2026-01-08 - Setup environment [2026-01-08] #5
+- Entry
+
