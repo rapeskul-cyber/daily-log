@@ -65,3 +65,6 @@
 
 ## 2026-01-08 - Setup environment [2026-01-08] #1
 - Entry
+
+## 2026-01-08 - Optimasi query/performance [2026-01-08] #2
+- Entry
