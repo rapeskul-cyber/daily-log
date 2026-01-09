@@ -74,3 +74,6 @@
 
 ## 2026-01-09 - Fix bug kecil [2026-01-09] #1
 - Entry
+
+## 2026-01-09 - Tambah unit test [2026-01-09] #2
+- Entry
