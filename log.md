@@ -11285,3 +11285,6 @@
 ## 2026-01-10 - Review & rapikan kode [2026-01-10] #20
 - Entry
 
+## 2026-01-10 - Setup environment [2026-01-10] #21
+- Entry
+
