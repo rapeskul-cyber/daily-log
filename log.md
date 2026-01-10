@@ -83,3 +83,6 @@
 
 ## 2026-01-10 - Code review [2026-01-10] #1
 - Entry
+
+## 2026-01-10 - Tambah unit test [2026-01-10] #2
+- Entry
