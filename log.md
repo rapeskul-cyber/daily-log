@@ -92,3 +92,6 @@
 
 ## 2026-01-11 - Baca dokumentasi baru [2026-01-11] #1
 - Entry
+
+## 2026-01-11 - Rapihin struktur folder [2026-01-11] #2
+- Entry
