@@ -11345,3 +11345,6 @@
 ## 2026-01-11 - Update changelog [2026-01-11] #24
 - Entry
 
+## 2026-01-11 - Tambah validasi input [2026-01-11] #25
+- Entry
+
