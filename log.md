@@ -11378,3 +11378,6 @@
 ## 2026-01-12 - Rapihin struktur folder [2026-01-12] #19
 - Entry
 
+## 2026-01-12 - Dokumentasi API [2026-01-12] #20
+- Entry
+
