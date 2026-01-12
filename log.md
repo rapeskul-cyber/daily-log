@@ -11363,3 +11363,6 @@
 ## 2026-01-11 - Catat ide project [2026-01-11] #30
 - Entry
 
+## 2026-01-12 - Optimasi query/performance [2026-01-12] #15
+- Entry
+
