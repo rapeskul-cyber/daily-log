@@ -11453,3 +11453,6 @@
 ## 2026-01-13 - Update changelog [2026-01-13] #28
 - Entry
 
+## 2026-01-13 - Tambah contoh penggunaan [2026-01-13] #29
+- Entry
+
