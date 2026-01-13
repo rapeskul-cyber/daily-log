@@ -2747,3 +2747,6 @@
 ## 2026-01-13 - Review & rapikan kode [2026-01-13] #7
 - Entry
 
+## 2026-01-13 - Rapihin struktur folder [2026-01-13] #8
+- Entry
+
