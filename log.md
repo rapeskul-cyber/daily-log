@@ -2771,3 +2771,6 @@
 ## 2026-01-14 - Debug issue [2026-01-14] #5
 - Entry
 
+## 2026-01-14 - Catat ide project [2026-01-14] #6
+- Entry
+
