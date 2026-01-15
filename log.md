@@ -11513,3 +11513,6 @@
 ## 2026-01-15 - Tambah validasi input [2026-01-15] #16
 - Entry
 
+## 2026-01-15 - Rapihin error handling [2026-01-15] #17
+- Entry
+
