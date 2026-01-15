@@ -11510,3 +11510,6 @@
 ## 2026-01-15 - Code review [2026-01-15] #15
 - Entry
 
+## 2026-01-15 - Tambah validasi input [2026-01-15] #16
+- Entry
+
