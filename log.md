@@ -2828,3 +2828,6 @@
 ## 2026-01-16 - Rapihin struktur folder [2026-01-16] #4
 - Entry
 
+## 2026-01-16 - Catat ide project [2026-01-16] #5
+- Entry
+
