@@ -11618,3 +11618,6 @@
 ## 2026-01-17 - Perbaiki typo [2026-01-17] #19
 - Entry
 
+## 2026-01-17 - Tambah validasi input [2026-01-17] #20
+- Entry
+
