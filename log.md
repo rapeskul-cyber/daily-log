@@ -2870,3 +2870,6 @@
 ## 2026-01-17 - Review & rapikan kode [2026-01-17] #8
 - Entry
 
+## 2026-01-17 - Rapihin struktur folder [2026-01-17] #9
+- Entry
+
