@@ -11690,3 +11690,6 @@
 ## 2026-01-18 - Tambah logging [2026-01-18] #27
 - Entry
 
+## 2026-01-18 - Tambah contoh penggunaan [2026-01-18] #28
+- Entry
+
