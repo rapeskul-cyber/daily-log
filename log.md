@@ -158,3 +158,6 @@
 
 ## 2026-01-18 - Fix bug kecil [2026-01-18] #2
 - Entry
+
+## 2026-01-18 - Update README [2026-01-18] #3
+- Entry
