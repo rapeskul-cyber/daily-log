@@ -2906,3 +2906,6 @@
 ## 2026-01-18 - Dokumentasi API [2026-01-18] #10
 - Entry
 
+## 2026-01-18 - Rapihin struktur folder [2026-01-18] #11
+- Entry
+
