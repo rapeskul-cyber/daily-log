@@ -152,3 +152,6 @@
 
 ## 2026-01-17 - Belajar hal baru hari ini [2026-01-17] #3
 - Entry
+
+## 2026-01-18 - Review & rapikan kode [2026-01-18] #1
+- Entry
