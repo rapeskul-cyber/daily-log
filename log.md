@@ -11705,3 +11705,6 @@
 ## 2026-01-19 - Update changelog [2026-01-19] #16
 - Entry
 
+## 2026-01-19 - Catat ide project [2026-01-19] #17
+- Entry
+
