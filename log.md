@@ -11723,3 +11723,6 @@
 ## 2026-01-19 - Setup CI [2026-01-19] #22
 - Entry
 
+## 2026-01-19 - Tambah contoh penggunaan [2026-01-19] #23
+- Entry
+
