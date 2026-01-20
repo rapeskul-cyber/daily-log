@@ -11753,3 +11753,6 @@
 ## 2026-01-20 - Review & rapikan kode [2026-01-20] #16
 - Entry
 
+## 2026-01-20 - Update README [2026-01-20] #17
+- Entry
+
