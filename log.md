@@ -2945,3 +2945,6 @@
 ## 2026-01-19 - Setup environment [2026-01-19] #13
 - Entry
 
+## 2026-01-20 - Review & rapikan kode [2026-01-20] #4
+- Entry
+
