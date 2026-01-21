@@ -11798,3 +11798,6 @@
 ## 2026-01-21 - Tambah unit test [2026-01-21] #15
 - Entry
 
+## 2026-01-21 - Tambah contoh penggunaan [2026-01-21] #16
+- Entry
+
