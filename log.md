@@ -11807,3 +11807,6 @@
 ## 2026-01-21 - Baca dokumentasi baru [2026-01-21] #18
 - Entry
 
+## 2026-01-21 - Tambah contoh penggunaan [2026-01-21] #19
+- Entry
+
