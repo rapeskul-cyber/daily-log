@@ -11897,3 +11897,6 @@
 ## 2026-01-23 - Tambah contoh penggunaan [2026-01-23] #16
 - Entry
 
+## 2026-01-23 - Optimasi query/performance [2026-01-23] #17
+- Entry
+
