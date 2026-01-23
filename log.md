@@ -11891,3 +11891,6 @@
 ## 2026-01-22 - Catat ide project [2026-01-22] #30
 - Entry
 
+## 2026-01-23 - Tambah contoh penggunaan [2026-01-23] #15
+- Entry
+
