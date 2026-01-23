@@ -3035,3 +3035,6 @@
 ## 2026-01-22 - Perbaiki typo [2026-01-22] #13
 - Entry
 
+## 2026-01-23 - Setup environment [2026-01-23] #4
+- Entry
+
