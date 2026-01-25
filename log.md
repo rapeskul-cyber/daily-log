@@ -3101,3 +3101,6 @@
 ## 2026-01-25 - Update README [2026-01-25] #5
 - Entry
 
+## 2026-01-25 - Tambah unit test [2026-01-25] #6
+- Entry
+
