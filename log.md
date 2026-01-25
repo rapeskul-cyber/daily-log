@@ -12002,3 +12002,6 @@
 ## 2026-01-25 - Update config [2026-01-25] #19
 - Entry
 
+## 2026-01-25 - Rapihin struktur folder [2026-01-25] #20
+- Entry
+
