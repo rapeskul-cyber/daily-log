@@ -218,3 +218,6 @@
 
 ## 2026-01-25 - Eksperimen fitur [2026-01-25] #1
 - Entry
+
+## 2026-01-25 - Optimasi query/performance [2026-01-25] #2
+- Entry
