@@ -12017,3 +12017,6 @@
 ## 2026-01-25 - Update README [2026-01-25] #24
 - Entry
 
+## 2026-01-25 - Tambah contoh penggunaan [2026-01-25] #25
+- Entry
+
