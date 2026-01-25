@@ -12020,3 +12020,6 @@
 ## 2026-01-25 - Tambah contoh penggunaan [2026-01-25] #25
 - Entry
 
+## 2026-01-25 - Dokumentasi API [2026-01-25] #26
+- Entry
+
