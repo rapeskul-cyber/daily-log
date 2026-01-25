@@ -3098,3 +3098,6 @@
 ## 2026-01-25 - Rapihin struktur folder [2026-01-25] #4
 - Entry
 
+## 2026-01-25 - Update README [2026-01-25] #5
+- Entry
+
