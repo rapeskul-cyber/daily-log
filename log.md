@@ -11990,3 +11990,6 @@
 ## 2026-01-25 - Catat ide project [2026-01-25] #15
 - Entry
 
+## 2026-01-25 - Tambah validasi input [2026-01-25] #16
+- Entry
+
