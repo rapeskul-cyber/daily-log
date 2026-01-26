@@ -12038,3 +12038,6 @@
 ## 2026-01-26 - Tambah contoh penggunaan [2026-01-26] #15
 - Entry
 
+## 2026-01-26 - Setup environment [2026-01-26] #16
+- Entry
+
