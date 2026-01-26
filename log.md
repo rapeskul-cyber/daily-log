@@ -12035,3 +12035,6 @@
 ## 2026-01-25 - Debug issue [2026-01-25] #30
 - Entry
 
+## 2026-01-26 - Tambah contoh penggunaan [2026-01-26] #15
+- Entry
+
