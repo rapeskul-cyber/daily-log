@@ -12173,3 +12173,6 @@
 ## 2026-01-28 - Baca dokumentasi baru [2026-01-28] #28
 - Entry
 
+## 2026-01-28 - Dokumentasi API [2026-01-28] #29
+- Entry
+
