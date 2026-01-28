@@ -12152,3 +12152,6 @@
 ## 2026-01-28 - Tambah contoh penggunaan [2026-01-28] #21
 - Entry
 
+## 2026-01-28 - Setup environment [2026-01-28] #22
+- Entry
+
