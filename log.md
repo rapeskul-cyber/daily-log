@@ -12131,3 +12131,6 @@
 ## 2026-01-27 - Update dokumentasi [2026-01-27] #30
 - Entry
 
+## 2026-01-28 - Setup environment [2026-01-28] #15
+- Entry
+
