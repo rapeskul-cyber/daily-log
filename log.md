@@ -12167,3 +12167,6 @@
 ## 2026-01-28 - Rapihin struktur folder [2026-01-28] #26
 - Entry
 
+## 2026-01-28 - Tambah contoh penggunaan [2026-01-28] #27
+- Entry
+
