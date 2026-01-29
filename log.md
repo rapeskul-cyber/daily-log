@@ -12215,3 +12215,6 @@
 ## 2026-01-29 - Update README [2026-01-29] #26
 - Entry
 
+## 2026-01-29 - Tambah contoh penggunaan [2026-01-29] #27
+- Entry
+
