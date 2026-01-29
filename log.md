@@ -3215,3 +3215,6 @@
 ## 2026-01-28 - Code review [2026-01-28] #13
 - Entry
 
+## 2026-01-29 - Rapihin struktur folder [2026-01-29] #4
+- Entry
+
