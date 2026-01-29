@@ -257,3 +257,6 @@
 
 ## 2026-01-29 - Tambah unit test [2026-01-29] #2
 - Entry
+
+## 2026-01-29 - Rapihin struktur folder [2026-01-29] #3
+- Entry
