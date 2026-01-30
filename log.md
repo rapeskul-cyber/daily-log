@@ -12254,3 +12254,6 @@
 ## 2026-01-30 - Rapihin error handling [2026-01-30] #23
 - Entry
 
+## 2026-01-30 - Tambah contoh penggunaan [2026-01-30] #24
+- Entry
+
