@@ -12263,3 +12263,6 @@
 ## 2026-01-30 - Update config [2026-01-30] #26
 - Entry
 
+## 2026-01-30 - Tambah contoh penggunaan [2026-01-30] #27
+- Entry
+
