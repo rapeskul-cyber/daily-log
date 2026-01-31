@@ -12293,3 +12293,6 @@
 ## 2026-01-31 - Belajar hal baru hari ini [2026-01-31] #20
 - Entry
 
+## 2026-01-31 - Tambah contoh penggunaan [2026-01-31] #21
+- Entry
+
