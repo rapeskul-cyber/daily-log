@@ -3311,3 +3311,6 @@
 ## 2026-02-01 - Code review [2026-02-01] #5
 - Entry
 
+## 2026-02-01 - Optimasi query/performance [2026-02-01] #6
+- Entry
+
