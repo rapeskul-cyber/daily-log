@@ -3326,3 +3326,6 @@
 ## 2026-02-01 - Setup environment [2026-02-01] #10
 - Entry
 
+## 2026-02-01 - Review & rapikan kode [2026-02-01] #11
+- Entry
+
