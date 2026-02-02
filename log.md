@@ -12398,3 +12398,6 @@
 ## 2026-02-02 - Review & rapikan kode [2026-02-02] #23
 - Entry
 
+## 2026-02-02 - Tambah validasi input [2026-02-02] #24
+- Entry
+
