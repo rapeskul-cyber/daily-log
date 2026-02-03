@@ -3392,3 +3392,6 @@
 ## 2026-02-03 - Perbaiki typo [2026-02-03] #12
 - Entry
 
+## 2026-02-03 - Optimasi query/performance [2026-02-03] #13
+- Entry
+
