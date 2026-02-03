@@ -12419,3 +12419,6 @@
 ## 2026-02-02 - Update changelog [2026-02-02] #30
 - Entry
 
+## 2026-02-03 - Rapihin error handling [2026-02-03] #15
+- Entry
+
