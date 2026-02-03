@@ -3368,3 +3368,6 @@
 ## 2026-02-03 - Perbaiki typo [2026-02-03] #4
 - Entry
 
+## 2026-02-03 - Catat ide project [2026-02-03] #5
+- Entry
+
