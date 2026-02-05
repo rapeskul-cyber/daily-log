@@ -317,3 +317,6 @@
 
 ## 2026-02-05 - Dokumentasi API [2026-02-05] #1
 - Entry
+
+## 2026-02-05 - Tambah unit test [2026-02-05] #2
+- Entry
