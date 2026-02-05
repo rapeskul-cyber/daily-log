@@ -12521,3 +12521,6 @@
 ## 2026-02-05 - Update README [2026-02-05] #16
 - Entry
 
+## 2026-02-05 - Optimasi query/performance [2026-02-05] #17
+- Entry
+
