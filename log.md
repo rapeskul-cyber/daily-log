@@ -12569,3 +12569,6 @@
 ## 2026-02-06 - Code review [2026-02-06] #16
 - Entry
 
+## 2026-02-06 - Tambah contoh penggunaan [2026-02-06] #17
+- Entry
+
