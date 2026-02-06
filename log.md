@@ -12584,3 +12584,6 @@
 ## 2026-02-06 - Update changelog [2026-02-06] #21
 - Entry
 
+## 2026-02-06 - Tambah unit test [2026-02-06] #22
+- Entry
+
