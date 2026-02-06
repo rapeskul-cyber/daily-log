@@ -12578,3 +12578,6 @@
 ## 2026-02-06 - Rapihin struktur folder [2026-02-06] #19
 - Entry
 
+## 2026-02-06 - Tambah validasi input [2026-02-06] #20
+- Entry
+
