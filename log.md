@@ -12683,3 +12683,6 @@
 ## 2026-02-08 - Code review [2026-02-08] #22
 - Entry
 
+## 2026-02-08 - Tambah validasi input [2026-02-08] #23
+- Entry
+
