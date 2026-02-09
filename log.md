@@ -12731,3 +12731,6 @@
 ## 2026-02-09 - Update dokumentasi [2026-02-09] #22
 - Entry
 
+## 2026-02-09 - Tambah contoh penggunaan [2026-02-09] #23
+- Entry
+
