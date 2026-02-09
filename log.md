@@ -3569,3 +3569,6 @@
 ## 2026-02-09 - Update README [2026-02-09] #11
 - Entry
 
+## 2026-02-09 - Setup environment [2026-02-09] #12
+- Entry
+
