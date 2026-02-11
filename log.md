@@ -371,3 +371,6 @@
 
 ## 2026-02-11 - Update config [2026-02-11] #1
 - Entry
+
+## 2026-02-11 - Rapihin struktur folder [2026-02-11] #2
+- Entry
