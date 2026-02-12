@@ -3650,3 +3650,6 @@
 ## 2026-02-12 - Update README [2026-02-12] #8
 - Entry
 
+## 2026-02-12 - Setup environment [2026-02-12] #9
+- Entry
+
