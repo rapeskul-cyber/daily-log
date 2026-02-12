@@ -383,3 +383,6 @@
 
 ## 2026-02-12 - Review & rapikan kode [2026-02-12] #2
 - Entry
+
+## 2026-02-12 - Optimasi query/performance [2026-02-12] #3
+- Entry
