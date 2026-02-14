@@ -12953,3 +12953,6 @@
 ## 2026-02-14 - Tambah validasi input [2026-02-14] #16
 - Entry
 
+## 2026-02-14 - Setup environment [2026-02-14] #17
+- Entry
+
