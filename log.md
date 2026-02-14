@@ -12950,3 +12950,6 @@
 ## 2026-02-14 - Debug issue [2026-02-14] #15
 - Entry
 
+## 2026-02-14 - Tambah validasi input [2026-02-14] #16
+- Entry
+
