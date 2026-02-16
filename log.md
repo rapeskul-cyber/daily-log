@@ -13052,3 +13052,6 @@
 ## 2026-02-16 - Update dokumentasi [2026-02-16] #17
 - Entry
 
+## 2026-02-16 - Tambah contoh penggunaan [2026-02-16] #18
+- Entry
+
