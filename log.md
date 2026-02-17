@@ -3791,3 +3791,6 @@
 ## 2026-02-17 - Baca dokumentasi baru [2026-02-17] #5
 - Entry
 
+## 2026-02-17 - Dokumentasi API [2026-02-17] #6
+- Entry
+
