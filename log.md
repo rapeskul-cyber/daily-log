@@ -13127,3 +13127,6 @@
 ## 2026-02-17 - Review & rapikan kode [2026-02-17] #26
 - Entry
 
+## 2026-02-17 - Tambah contoh penggunaan [2026-02-17] #27
+- Entry
+
