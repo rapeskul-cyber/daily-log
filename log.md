@@ -422,3 +422,6 @@
 
 ## 2026-02-16 - Review & rapikan kode [2026-02-16] #3
 - Entry
+
+## 2026-02-17 - Optimasi query/performance [2026-02-17] #1
+- Entry
