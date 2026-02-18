@@ -3827,3 +3827,6 @@
 ## 2026-02-18 - Implementasi fitur baru [2026-02-18] #7
 - Entry
 
+## 2026-02-18 - Setup environment [2026-02-18] #8
+- Entry
+
