@@ -13139,3 +13139,6 @@
 ## 2026-02-17 - Eksperimen fitur [2026-02-17] #30
 - Entry
 
+## 2026-02-18 - Tambah validasi input [2026-02-18] #15
+- Entry
+
