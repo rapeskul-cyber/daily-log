@@ -13226,3 +13226,6 @@
 ## 2026-02-19 - Update changelog [2026-02-19] #27
 - Entry
 
+## 2026-02-19 - Tambah unit test [2026-02-19] #28
+- Entry
+
