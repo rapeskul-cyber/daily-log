@@ -13319,3 +13319,6 @@
 ## 2026-02-21 - Update dokumentasi [2026-02-21] #26
 - Entry
 
+## 2026-02-21 - Tambah contoh penggunaan [2026-02-21] #27
+- Entry
+
