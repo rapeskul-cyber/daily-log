@@ -13328,3 +13328,6 @@
 ## 2026-02-21 - Fix bug kecil [2026-02-21] #29
 - Entry
 
+## 2026-02-21 - Tambah contoh penggunaan [2026-02-21] #30
+- Entry
+
