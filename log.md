@@ -13349,3 +13349,6 @@
 ## 2026-02-22 - Update changelog [2026-02-22] #20
 - Entry
 
+## 2026-02-22 - Tambah contoh penggunaan [2026-02-22] #21
+- Entry
+
