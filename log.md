@@ -4028,3 +4028,6 @@
 ## 2026-02-25 - Debug issue [2026-02-25] #4
 - Entry
 
+## 2026-02-25 - Catat ide project [2026-02-25] #5
+- Entry
+
