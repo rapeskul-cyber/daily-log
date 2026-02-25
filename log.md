@@ -13511,3 +13511,6 @@
 ## 2026-02-25 - Rapihin struktur folder [2026-02-25] #26
 - Entry
 
+## 2026-02-25 - Optimasi query/performance [2026-02-25] #27
+- Entry
+
