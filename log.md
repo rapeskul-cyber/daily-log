@@ -4052,3 +4052,6 @@
 ## 2026-02-25 - Update dependency [2026-02-25] #12
 - Entry
 
+## 2026-02-25 - Test edge case [2026-02-25] #13
+- Entry
+
