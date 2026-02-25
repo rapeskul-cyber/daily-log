@@ -13508,3 +13508,6 @@
 ## 2026-02-25 - Rapihin error handling [2026-02-25] #25
 - Entry
 
+## 2026-02-25 - Rapihin struktur folder [2026-02-25] #26
+- Entry
+
