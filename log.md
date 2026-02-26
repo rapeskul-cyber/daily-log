@@ -4082,3 +4082,6 @@
 ## 2026-02-26 - Rapihin struktur folder [2026-02-26] #12
 - Entry
 
+## 2026-02-26 - Update README [2026-02-26] #13
+- Entry
+
