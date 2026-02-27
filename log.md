@@ -4112,3 +4112,6 @@
 ## 2026-02-27 - Rapihin struktur folder [2026-02-27] #12
 - Entry
 
+## 2026-02-27 - Debug issue [2026-02-27] #13
+- Entry
+
