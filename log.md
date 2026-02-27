@@ -13580,3 +13580,6 @@
 ## 2026-02-27 - Review & rapikan kode [2026-02-27] #17
 - Entry
 
+## 2026-02-27 - Rapihin error handling [2026-02-27] #18
+- Entry
+
