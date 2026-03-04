@@ -13823,3 +13823,6 @@
 ## 2026-03-04 - Review & rapikan kode [2026-03-04] #18
 - Entry
 
+## 2026-03-04 - Tambah contoh penggunaan [2026-03-04] #19
+- Entry
+
