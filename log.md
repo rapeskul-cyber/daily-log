@@ -13943,3 +13943,6 @@
 ## 2026-03-06 - Catat ide project [2026-03-06] #26
 - Entry
 
+## 2026-03-06 - Tambah contoh penggunaan [2026-03-06] #27
+- Entry
+
