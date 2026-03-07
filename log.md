@@ -4325,3 +4325,6 @@
 ## 2026-03-06 - Tambah unit test [2026-03-06] #13
 - Entry
 
+## 2026-03-07 - Update README [2026-03-07] #4
+- Entry
+
