@@ -14360,3 +14360,6 @@
 ## 2026-03-15 - Dokumentasi API [2026-03-15] #21
 - Entry
 
+## 2026-03-15 - Tambah contoh penggunaan [2026-03-15] #22
+- Entry
+
