@@ -671,3 +671,6 @@
 
 ## 2026-03-16 - Implementasi fitur baru [2026-03-16] #2
 - Entry
+
+## 2026-03-16 - Setup environment [2026-03-16] #3
+- Entry
