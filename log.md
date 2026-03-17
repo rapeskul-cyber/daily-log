@@ -10517,3 +10517,6 @@
 ## 2026-03-16 - Setup environment [2026-03-16] #14
 - Entry
 
+## 2026-03-17 - Review & rapikan kode [2026-03-17] #14
+- Entry
+
