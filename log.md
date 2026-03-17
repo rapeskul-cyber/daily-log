@@ -14444,3 +14444,6 @@
 ## 2026-03-17 - Setup environment [2026-03-17] #17
 - Entry
 
+## 2026-03-17 - Rapihin struktur folder [2026-03-17] #18
+- Entry
+
