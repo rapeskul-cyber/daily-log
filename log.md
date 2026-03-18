@@ -10520,3 +10520,6 @@
 ## 2026-03-17 - Review & rapikan kode [2026-03-17] #14
 - Entry
 
+## 2026-03-18 - Tambah unit test [2026-03-18] #14
+- Entry
+
