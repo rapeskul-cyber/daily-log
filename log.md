@@ -701,3 +701,6 @@
 
 ## 2026-03-19 - Catat ide project [2026-03-19] #3
 - Entry
+
+## 2026-03-20 - Optimasi query/performance [2026-03-20] #1
+- Entry
