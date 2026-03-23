@@ -4820,3 +4820,6 @@
 ## 2026-03-23 - Rapihin struktur folder [2026-03-23] #8
 - Entry
 
+## 2026-03-23 - Setup environment [2026-03-23] #9
+- Entry
+
