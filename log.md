@@ -746,3 +746,6 @@
 
 ## 2026-03-24 - Debug issue [2026-03-24] #3
 - Entry
+
+## 2026-03-25 - Catat ide project [2026-03-25] #1
+- Entry
