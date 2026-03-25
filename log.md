@@ -14825,3 +14825,6 @@
 ## 2026-03-25 - Review & rapikan kode [2026-03-25] #16
 - Entry
 
+## 2026-03-25 - Debug issue [2026-03-25] #17
+- Entry
+
