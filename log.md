@@ -755,3 +755,6 @@
 
 ## 2026-03-25 - Fix bug kecil [2026-03-25] #3
 - Entry
+
+## 2026-03-26 - Update README [2026-03-26] #1
+- Entry
