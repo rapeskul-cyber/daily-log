@@ -4931,3 +4931,6 @@
 ## 2026-03-27 - Review & rapikan kode [2026-03-27] #5
 - Entry
 
+## 2026-03-27 - Setup environment [2026-03-27] #6
+- Entry
+
