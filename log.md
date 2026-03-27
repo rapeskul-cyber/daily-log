@@ -14936,3 +14936,6 @@
 ## 2026-03-27 - Tambah validasi input [2026-03-27] #21
 - Entry
 
+## 2026-03-27 - Tambah contoh penggunaan [2026-03-27] #22
+- Entry
+
