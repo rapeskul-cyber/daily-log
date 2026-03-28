@@ -14969,3 +14969,6 @@
 ## 2026-03-28 - Review & rapikan kode [2026-03-28] #16
 - Entry
 
+## 2026-03-28 - Update changelog [2026-03-28] #17
+- Entry
+
