@@ -14963,3 +14963,6 @@
 ## 2026-03-27 - Update changelog [2026-03-27] #30
 - Entry
 
+## 2026-03-28 - Update README [2026-03-28] #15
+- Entry
+
