@@ -4961,3 +4961,6 @@
 ## 2026-03-28 - Baca dokumentasi baru [2026-03-28] #5
 - Entry
 
+## 2026-03-28 - Setup environment [2026-03-28] #6
+- Entry
+
