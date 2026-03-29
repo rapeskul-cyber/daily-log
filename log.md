@@ -782,3 +782,6 @@
 
 ## 2026-03-28 - Belajar hal baru hari ini [2026-03-28] #3
 - Entry
+
+## 2026-03-29 - Setup environment [2026-03-29] #1
+- Entry
