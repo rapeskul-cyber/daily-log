@@ -5012,3 +5012,6 @@
 ## 2026-03-29 - Review & rapikan kode [2026-03-29] #12
 - Entry
 
+## 2026-03-29 - Debug issue [2026-03-29] #13
+- Entry
+
