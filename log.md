@@ -788,3 +788,6 @@
 
 ## 2026-03-29 - Review & rapikan kode [2026-03-29] #2
 - Entry
+
+## 2026-03-29 - Rapihin struktur folder [2026-03-29] #3
+- Entry
