@@ -785,3 +785,6 @@
 
 ## 2026-03-29 - Setup environment [2026-03-29] #1
 - Entry
+
+## 2026-03-29 - Review & rapikan kode [2026-03-29] #2
+- Entry
