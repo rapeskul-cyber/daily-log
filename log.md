@@ -15017,3 +15017,6 @@
 ## 2026-03-29 - Test edge case [2026-03-29] #16
 - Entry
 
+## 2026-03-29 - Tambah contoh penggunaan [2026-03-29] #17
+- Entry
+
