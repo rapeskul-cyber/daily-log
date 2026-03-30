@@ -15062,3 +15062,6 @@
 ## 2026-03-30 - Update README [2026-03-30] #15
 - Entry
 
+## 2026-03-30 - Tambah contoh penggunaan [2026-03-30] #16
+- Entry
+
