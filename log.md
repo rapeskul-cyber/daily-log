@@ -5027,3 +5027,6 @@
 ## 2026-03-30 - Setup environment [2026-03-30] #7
 - Entry
 
+## 2026-03-30 - Tambah unit test [2026-03-30] #8
+- Entry
+
