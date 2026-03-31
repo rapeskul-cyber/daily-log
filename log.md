@@ -800,3 +800,6 @@
 
 ## 2026-03-30 - Review & rapikan kode [2026-03-30] #3
 - Entry
+
+## 2026-03-31 - Catat ide project [2026-03-31] #1
+- Entry
