@@ -10559,3 +10559,6 @@
 ## 2026-03-30 - Review & rapikan kode [2026-03-30] #14
 - Entry
 
+## 2026-03-31 - Update README [2026-03-31] #14
+- Entry
+
