@@ -5117,3 +5117,6 @@
 ## 2026-04-02 - Review & rapikan kode [2026-04-02] #7
 - Entry
 
+## 2026-04-02 - Update README [2026-04-02] #8
+- Entry
+
