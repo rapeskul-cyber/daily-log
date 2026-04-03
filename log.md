@@ -15293,3 +15293,6 @@
 ## 2026-04-03 - Catat ide project [2026-04-03] #28
 - Entry
 
+## 2026-04-03 - Tambah contoh penggunaan [2026-04-03] #29
+- Entry
+
