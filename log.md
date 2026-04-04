@@ -15305,3 +15305,6 @@
 ## 2026-04-04 - Review & rapikan kode [2026-04-04] #16
 - Entry
 
+## 2026-04-04 - Rapihin error handling [2026-04-04] #17
+- Entry
+
