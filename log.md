@@ -15314,3 +15314,6 @@
 ## 2026-04-04 - Rapihin struktur folder [2026-04-04] #19
 - Entry
 
+## 2026-04-04 - Tambah validasi input [2026-04-04] #20
+- Entry
+
