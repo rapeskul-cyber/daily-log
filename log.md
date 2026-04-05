@@ -15386,3 +15386,6 @@
 ## 2026-04-05 - Setup CI [2026-04-05] #27
 - Entry
 
+## 2026-04-05 - Tambah validasi input [2026-04-05] #28
+- Entry
+
