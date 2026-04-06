@@ -5234,3 +5234,6 @@
 ## 2026-04-06 - Update README [2026-04-06] #6
 - Entry
 
+## 2026-04-06 - Rapihin struktur folder [2026-04-06] #7
+- Entry
+
