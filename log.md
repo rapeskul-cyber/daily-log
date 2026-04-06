@@ -15401,3 +15401,6 @@
 ## 2026-04-06 - Implementasi fitur baru [2026-04-06] #16
 - Entry
 
+## 2026-04-06 - Rapihin error handling [2026-04-06] #17
+- Entry
+
