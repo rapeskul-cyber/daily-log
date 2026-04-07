@@ -863,3 +863,6 @@
 
 ## 2026-04-06 - Dokumentasi API [2026-04-06] #3
 - Entry
+
+## 2026-04-07 - Setup environment [2026-04-07] #1
+- Entry
