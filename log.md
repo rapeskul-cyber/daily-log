@@ -5309,3 +5309,6 @@
 ## 2026-04-08 - Test edge case [2026-04-08] #11
 - Entry
 
+## 2026-04-08 - Rapihin struktur folder [2026-04-08] #12
+- Entry
+
