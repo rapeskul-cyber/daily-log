@@ -15569,3 +15569,6 @@
 ## 2026-04-09 - Update changelog [2026-04-09] #24
 - Entry
 
+## 2026-04-09 - Update dependency [2026-04-09] #25
+- Entry
+
