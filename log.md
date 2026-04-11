@@ -15671,3 +15671,6 @@
 ## 2026-04-11 - Rapihin error handling [2026-04-11] #26
 - Entry
 
+## 2026-04-11 - Tambah contoh penggunaan [2026-04-11] #27
+- Entry
+
