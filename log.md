@@ -15731,3 +15731,6 @@
 ## 2026-04-12 - Rapihin struktur folder [2026-04-12] #30
 - Entry
 
+## 2026-04-13 - Tambah contoh penggunaan [2026-04-13] #15
+- Entry
+
