@@ -5540,3 +5540,6 @@
 ## 2026-04-16 - Review & rapikan kode [2026-04-16] #8
 - Entry
 
+## 2026-04-16 - Optimasi query/performance [2026-04-16] #9
+- Entry
+
