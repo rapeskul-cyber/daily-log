@@ -5627,3 +5627,6 @@
 ## 2026-04-19 - Rapihin struktur folder [2026-04-19] #7
 - Entry
 
+## 2026-04-19 - Setup environment [2026-04-19] #8
+- Entry
+
