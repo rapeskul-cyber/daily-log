@@ -16088,3 +16088,6 @@
 ## 2026-04-20 - Update changelog [2026-04-20] #21
 - Entry
 
+## 2026-04-20 - Setup environment [2026-04-20] #22
+- Entry
+
