@@ -983,3 +983,6 @@
 
 ## 2026-04-20 - Implementasi fitur baru [2026-04-20] #1
 - Entry
+
+## 2026-04-20 - Optimasi query/performance [2026-04-20] #2
+- Entry
