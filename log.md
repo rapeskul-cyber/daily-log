@@ -5681,3 +5681,6 @@
 ## 2026-04-21 - Dokumentasi API [2026-04-21] #5
 - Entry
 
+## 2026-04-21 - Rapihin struktur folder [2026-04-21] #6
+- Entry
+
