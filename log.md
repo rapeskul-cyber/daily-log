@@ -16343,3 +16343,6 @@
 ## 2026-04-25 - Update config [2026-04-25] #26
 - Entry
 
+## 2026-04-25 - Tambah contoh penggunaan [2026-04-25] #27
+- Entry
+
