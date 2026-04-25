@@ -1028,3 +1028,6 @@
 
 ## 2026-04-25 - Update README [2026-04-25] #1
 - Entry
+
+## 2026-04-25 - Setup environment [2026-04-25] #2
+- Entry
