@@ -5801,3 +5801,6 @@
 ## 2026-04-25 - Optimasi query/performance [2026-04-25] #5
 - Entry
 
+## 2026-04-25 - Dokumentasi API [2026-04-25] #6
+- Entry
+
