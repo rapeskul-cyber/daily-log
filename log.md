@@ -5870,3 +5870,6 @@
 ## 2026-04-27 - Setup environment [2026-04-27] #8
 - Entry
 
+## 2026-04-27 - Catat ide project [2026-04-27] #9
+- Entry
+
