@@ -16577,3 +16577,6 @@
 ## 2026-04-30 - Rapihin error handling [2026-04-30] #24
 - Entry
 
+## 2026-04-30 - Rapihin struktur folder [2026-04-30] #25
+- Entry
+
