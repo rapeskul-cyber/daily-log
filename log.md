@@ -1088,3 +1088,6 @@
 
 ## 2026-05-01 - Review & rapikan kode [2026-05-01] #3
 - Entry
+
+## 2026-05-02 - Debug issue [2026-05-02] #1
+- Entry
