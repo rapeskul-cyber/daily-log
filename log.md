@@ -16793,3 +16793,6 @@
 ## 2026-05-05 - Tambah unit test [2026-05-05] #16
 - Entry
 
+## 2026-05-05 - Rapihin error handling [2026-05-05] #17
+- Entry
+
