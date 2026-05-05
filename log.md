@@ -16823,3 +16823,6 @@
 ## 2026-05-05 - Rapihin struktur folder [2026-05-05] #26
 - Entry
 
+## 2026-05-05 - Optimasi query/performance [2026-05-05] #27
+- Entry
+
