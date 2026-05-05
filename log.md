@@ -16802,3 +16802,6 @@
 ## 2026-05-05 - Belajar hal baru hari ini [2026-05-05] #19
 - Entry
 
+## 2026-05-05 - Tambah contoh penggunaan [2026-05-05] #20
+- Entry
+
