@@ -6137,3 +6137,6 @@
 ## 2026-05-06 - Setup environment [2026-05-06] #7
 - Entry
 
+## 2026-05-06 - Review & rapikan kode [2026-05-06] #8
+- Entry
+
