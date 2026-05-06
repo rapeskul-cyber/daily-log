@@ -6149,3 +6149,6 @@
 ## 2026-05-06 - Update README [2026-05-06] #11
 - Entry
 
+## 2026-05-06 - Catat ide project [2026-05-06] #12
+- Entry
+
