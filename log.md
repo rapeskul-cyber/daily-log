@@ -16889,3 +16889,6 @@
 ## 2026-05-07 - Rapihin struktur folder [2026-05-07] #16
 - Entry
 
+## 2026-05-07 - Tambah validasi input [2026-05-07] #17
+- Entry
+
