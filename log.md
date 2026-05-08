@@ -16946,3 +16946,6 @@
 ## 2026-05-08 - Update README [2026-05-08] #19
 - Entry
 
+## 2026-05-08 - Tambah validasi input [2026-05-08] #20
+- Entry
+
