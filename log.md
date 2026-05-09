@@ -1157,3 +1157,6 @@
 
 ## 2026-05-09 - Perbaiki typo [2026-05-09] #2
 - Entry
+
+## 2026-05-09 - Catat ide project [2026-05-09] #3
+- Entry
