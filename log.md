@@ -17084,3 +17084,6 @@
 ## 2026-05-11 - Setup CI [2026-05-11] #17
 - Entry
 
+## 2026-05-11 - Rapihin struktur folder [2026-05-11] #18
+- Entry
+
