@@ -17105,3 +17105,6 @@
 ## 2026-05-11 - Update changelog [2026-05-11] #24
 - Entry
 
+## 2026-05-11 - Update config [2026-05-11] #25
+- Entry
+
