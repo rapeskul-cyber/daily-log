@@ -10688,3 +10688,6 @@
 ## 2026-05-12 - Setup environment [2026-05-12] #14
 - Entry
 
+## 2026-05-13 - Review & rapikan kode [2026-05-13] #14
+- Entry
+
