@@ -17201,3 +17201,6 @@
 ## 2026-05-13 - Fix bug kecil [2026-05-13] #24
 - Entry
 
+## 2026-05-13 - Update changelog [2026-05-13] #25
+- Entry
+
