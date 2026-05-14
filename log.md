@@ -6368,3 +6368,6 @@
 ## 2026-05-14 - Update README [2026-05-14] #4
 - Entry
 
+## 2026-05-14 - Setup environment [2026-05-14] #5
+- Entry
+
