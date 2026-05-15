@@ -17309,3 +17309,6 @@
 ## 2026-05-15 - Review & rapikan kode [2026-05-15] #28
 - Entry
 
+## 2026-05-15 - Setup environment [2026-05-15] #29
+- Entry
+
