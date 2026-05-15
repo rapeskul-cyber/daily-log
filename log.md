@@ -17285,3 +17285,6 @@
 ## 2026-05-15 - Update config [2026-05-15] #20
 - Entry
 
+## 2026-05-15 - Rapihin struktur folder [2026-05-15] #21
+- Entry
+
