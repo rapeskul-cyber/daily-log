@@ -17330,3 +17330,6 @@
 ## 2026-05-16 - Tambah logging [2026-05-16] #19
 - Entry
 
+## 2026-05-16 - Tambah contoh penggunaan [2026-05-16] #20
+- Entry
+
