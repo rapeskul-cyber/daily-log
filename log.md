@@ -17390,3 +17390,6 @@
 ## 2026-05-17 - Review & rapikan kode [2026-05-17] #23
 - Entry
 
+## 2026-05-17 - Optimasi query/performance [2026-05-17] #24
+- Entry
+
