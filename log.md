@@ -1235,3 +1235,6 @@
 
 ## 2026-05-18 - Rapihin struktur folder [2026-05-18] #1
 - Entry
+
+## 2026-05-18 - Baca dokumentasi baru [2026-05-18] #2
+- Entry
