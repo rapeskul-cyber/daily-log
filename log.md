@@ -1232,3 +1232,6 @@
 
 ## 2026-05-17 - Eksperimen fitur [2026-05-17] #3
 - Entry
+
+## 2026-05-18 - Rapihin struktur folder [2026-05-18] #1
+- Entry
