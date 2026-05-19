@@ -17483,3 +17483,6 @@
 ## 2026-05-19 - Update changelog [2026-05-19] #22
 - Entry
 
+## 2026-05-19 - Update README [2026-05-19] #23
+- Entry
+
