@@ -17507,3 +17507,6 @@
 ## 2026-05-19 - Review & rapikan kode [2026-05-19] #30
 - Entry
 
+## 2026-05-20 - Tambah contoh penggunaan [2026-05-20] #15
+- Entry
+
