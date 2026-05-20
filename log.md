@@ -17522,3 +17522,6 @@
 ## 2026-05-20 - Debug issue [2026-05-20] #19
 - Entry
 
+## 2026-05-20 - Tambah contoh penggunaan [2026-05-20] #20
+- Entry
+
