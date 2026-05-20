@@ -17537,3 +17537,6 @@
 ## 2026-05-20 - Update dokumentasi [2026-05-20] #24
 - Entry
 
+## 2026-05-20 - Setup environment [2026-05-20] #25
+- Entry
+
