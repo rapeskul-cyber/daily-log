@@ -17600,3 +17600,6 @@
 ## 2026-05-21 - Update changelog [2026-05-21] #29
 - Entry
 
+## 2026-05-21 - Cek dependency [2026-05-21] #30
+- Entry
+
