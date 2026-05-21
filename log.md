@@ -17570,3 +17570,6 @@
 ## 2026-05-21 - Update dependency [2026-05-21] #19
 - Entry
 
+## 2026-05-21 - Test edge case [2026-05-21] #20
+- Entry
+
