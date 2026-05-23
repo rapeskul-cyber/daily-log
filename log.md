@@ -17690,3 +17690,6 @@
 ## 2026-05-23 - Update changelog [2026-05-23] #27
 - Entry
 
+## 2026-05-23 - Refactor module [2026-05-23] #28
+- Entry
+
