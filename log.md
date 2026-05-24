@@ -17705,3 +17705,6 @@
 ## 2026-05-24 - Debug issue [2026-05-24] #16
 - Entry
 
+## 2026-05-24 - Tambah validasi input [2026-05-24] #17
+- Entry
+
