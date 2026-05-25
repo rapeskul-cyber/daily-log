@@ -17786,3 +17786,6 @@
 ## 2026-05-25 - Tambah unit test [2026-05-25] #27
 - Entry
 
+## 2026-05-25 - Tambah contoh penggunaan [2026-05-25] #28
+- Entry
+
