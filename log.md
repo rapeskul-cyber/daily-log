@@ -6722,3 +6722,6 @@
 ## 2026-05-25 - Tambah unit test [2026-05-25] #12
 - Entry
 
+## 2026-05-25 - Optimasi query/performance [2026-05-25] #13
+- Entry
+
