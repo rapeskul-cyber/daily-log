@@ -1295,3 +1295,6 @@
 
 ## 2026-05-24 - Update config [2026-05-24] #3
 - Entry
+
+## 2026-05-25 - Setup environment [2026-05-25] #1
+- Entry
