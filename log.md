@@ -6701,3 +6701,6 @@
 ## 2026-05-25 - Debug issue [2026-05-25] #5
 - Entry
 
+## 2026-05-25 - Dokumentasi API [2026-05-25] #6
+- Entry
+
