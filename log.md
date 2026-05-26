@@ -17825,3 +17825,6 @@
 ## 2026-05-26 - Baca dokumentasi baru [2026-05-26] #24
 - Entry
 
+## 2026-05-26 - Dokumentasi API [2026-05-26] #25
+- Entry
+
