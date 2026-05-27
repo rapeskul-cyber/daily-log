@@ -6776,3 +6776,6 @@
 ## 2026-05-27 - Catat ide project [2026-05-27] #10
 - Entry
 
+## 2026-05-27 - Rapihin struktur folder [2026-05-27] #11
+- Entry
+
