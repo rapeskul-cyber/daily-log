@@ -17873,3 +17873,6 @@
 ## 2026-05-27 - Tambah unit test [2026-05-27] #24
 - Entry
 
+## 2026-05-27 - Tambah contoh penggunaan [2026-05-27] #25
+- Entry
+
