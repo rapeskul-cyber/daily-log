@@ -17849,3 +17849,6 @@
 ## 2026-05-27 - Implementasi fitur baru [2026-05-27] #16
 - Entry
 
+## 2026-05-27 - Update README [2026-05-27] #17
+- Entry
+
