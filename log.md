@@ -17900,3 +17900,6 @@
 ## 2026-05-28 - Cek dependency [2026-05-28] #17
 - Entry
 
+## 2026-05-28 - Tambah contoh penggunaan [2026-05-28] #18
+- Entry
+
