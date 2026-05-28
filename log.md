@@ -17912,3 +17912,6 @@
 ## 2026-05-28 - Update dokumentasi [2026-05-28] #21
 - Entry
 
+## 2026-05-28 - Rapihin error handling [2026-05-28] #22
+- Entry
+
