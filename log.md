@@ -17948,3 +17948,6 @@
 ## 2026-05-29 - Review & rapikan kode [2026-05-29] #17
 - Entry
 
+## 2026-05-29 - Tambah unit test [2026-05-29] #18
+- Entry
+
