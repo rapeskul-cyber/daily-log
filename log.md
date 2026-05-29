@@ -1337,3 +1337,6 @@
 
 ## 2026-05-29 - Update config [2026-05-29] #2
 - Entry
+
+## 2026-05-29 - Catat ide project [2026-05-29] #3
+- Entry
