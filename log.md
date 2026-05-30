@@ -6872,3 +6872,6 @@
 ## 2026-05-30 - Perbaiki typo [2026-05-30] #12
 - Entry
 
+## 2026-05-30 - Optimasi query/performance [2026-05-30] #13
+- Entry
+
