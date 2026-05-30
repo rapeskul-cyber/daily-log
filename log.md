@@ -18026,3 +18026,6 @@
 ## 2026-05-30 - Setup environment [2026-05-30] #27
 - Entry
 
+## 2026-05-30 - Tambah logging [2026-05-30] #28
+- Entry
+
