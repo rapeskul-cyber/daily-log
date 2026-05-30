@@ -18002,3 +18002,6 @@
 ## 2026-05-30 - Optimasi query/performance [2026-05-30] #19
 - Entry
 
+## 2026-05-30 - Tambah contoh penggunaan [2026-05-30] #20
+- Entry
+
