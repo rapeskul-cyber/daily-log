@@ -18074,3 +18074,6 @@
 ## 2026-05-31 - Update dokumentasi [2026-05-31] #27
 - Entry
 
+## 2026-05-31 - Dokumentasi API [2026-05-31] #28
+- Entry
+
