@@ -10742,3 +10742,6 @@
 ## 2026-05-30 - Update README [2026-05-30] #14
 - Entry
 
+## 2026-05-31 - Review & rapikan kode [2026-05-31] #14
+- Entry
+
