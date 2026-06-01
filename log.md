@@ -1358,3 +1358,6 @@
 
 ## 2026-05-31 - Test edge case [2026-05-31] #3
 - Entry
+
+## 2026-06-01 - Rapihin struktur folder [2026-06-01] #1
+- Entry
