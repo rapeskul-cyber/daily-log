@@ -18146,3 +18146,6 @@
 ## 2026-06-02 - Update changelog [2026-06-02] #19
 - Entry
 
+## 2026-06-02 - Rapihin error handling [2026-06-02] #20
+- Entry
+
