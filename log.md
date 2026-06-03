@@ -18221,3 +18221,6 @@
 ## 2026-06-03 - Code review [2026-06-03] #28
 - Entry
 
+## 2026-06-03 - Rapihin struktur folder [2026-06-03] #29
+- Entry
+
