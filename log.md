@@ -18206,3 +18206,6 @@
 ## 2026-06-03 - Update changelog [2026-06-03] #23
 - Entry
 
+## 2026-06-03 - Update README [2026-06-03] #24
+- Entry
+
