@@ -18257,3 +18257,6 @@
 ## 2026-06-04 - Fix bug kecil [2026-06-04] #24
 - Entry
 
+## 2026-06-04 - Tambah contoh penggunaan [2026-06-04] #25
+- Entry
+
