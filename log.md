@@ -1406,3 +1406,6 @@
 
 ## 2026-06-06 - Code review [2026-06-06] #1
 - Entry
+
+## 2026-06-06 - Setup environment [2026-06-06] #2
+- Entry
