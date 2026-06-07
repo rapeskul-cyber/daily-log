@@ -7091,3 +7091,6 @@
 ## 2026-06-07 - Rapihin struktur folder [2026-06-07] #5
 - Entry
 
+## 2026-06-07 - Update README [2026-06-07] #6
+- Entry
+
