@@ -18392,3 +18392,6 @@
 ## 2026-06-07 - Belajar hal baru hari ini [2026-06-07] #21
 - Entry
 
+## 2026-06-07 - Tambah contoh penggunaan [2026-06-07] #22
+- Entry
+
