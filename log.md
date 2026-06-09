@@ -7145,3 +7145,6 @@
 ## 2026-06-08 - Debug issue [2026-06-08] #13
 - Entry
 
+## 2026-06-09 - Rapihin struktur folder [2026-06-09] #4
+- Entry
+
