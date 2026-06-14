@@ -18731,3 +18731,6 @@
 ## 2026-06-14 - Tambah validasi input [2026-06-14] #22
 - Entry
 
+## 2026-06-14 - Tambah contoh penggunaan [2026-06-14] #23
+- Entry
+
