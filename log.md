@@ -18776,3 +18776,6 @@
 ## 2026-06-15 - Setup CI [2026-06-15] #21
 - Entry
 
+## 2026-06-15 - Tambah contoh penggunaan [2026-06-15] #22
+- Entry
+
