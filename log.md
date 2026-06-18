@@ -10796,3 +10796,6 @@
 ## 2026-06-17 - Perbaiki typo [2026-06-17] #14
 - Entry
 
+## 2026-06-18 - Setup environment [2026-06-18] #14
+- Entry
+
