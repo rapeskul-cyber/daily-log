@@ -18914,3 +18914,6 @@
 ## 2026-06-18 - Update dokumentasi [2026-06-18] #19
 - Entry
 
+## 2026-06-18 - Tambah contoh penggunaan [2026-06-18] #20
+- Entry
+
