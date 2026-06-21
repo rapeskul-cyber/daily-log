@@ -19043,3 +19043,6 @@
 ## 2026-06-20 - Bersihin import [2026-06-20] #30
 - Entry
 
+## 2026-06-21 - Tambah contoh penggunaan [2026-06-21] #15
+- Entry
+
