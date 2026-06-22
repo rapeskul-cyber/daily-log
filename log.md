@@ -1547,3 +1547,6 @@
 
 ## 2026-06-21 - Tambah unit test [2026-06-21] #3
 - Entry
+
+## 2026-06-22 - Setup environment [2026-06-22] #1
+- Entry
