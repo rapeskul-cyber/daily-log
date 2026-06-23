@@ -19160,3 +19160,6 @@
 ## 2026-06-23 - Baca dokumentasi baru [2026-06-23] #21
 - Entry
 
+## 2026-06-23 - Tambah contoh penggunaan [2026-06-23] #22
+- Entry
+
