@@ -7601,3 +7601,6 @@
 ## 2026-06-24 - Review & rapikan kode [2026-06-24] #5
 - Entry
 
+## 2026-06-24 - Optimasi query/performance [2026-06-24] #6
+- Entry
+
