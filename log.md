@@ -19433,3 +19433,6 @@
 ## 2026-06-29 - Optimasi query/performance [2026-06-29] #16
 - Entry
 
+## 2026-06-29 - Tambah contoh penggunaan [2026-06-29] #17
+- Entry
+
