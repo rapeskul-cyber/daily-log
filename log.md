@@ -19505,3 +19505,6 @@
 ## 2026-06-30 - Update changelog [2026-06-30] #24
 - Entry
 
+## 2026-06-30 - Test edge case [2026-06-30] #25
+- Entry
+
