@@ -7877,3 +7877,6 @@
 ## 2026-07-03 - Review & rapikan kode [2026-07-03] #7
 - Entry
 
+## 2026-07-03 - Optimasi query/performance [2026-07-03] #8
+- Entry
+
