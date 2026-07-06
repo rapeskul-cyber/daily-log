@@ -19781,3 +19781,6 @@
 ## 2026-07-06 - Review & rapikan kode [2026-07-06] #14
 - Entry
 
+## 2026-07-06 - Tambah contoh penggunaan [2026-07-06] #15
+- Entry
+
