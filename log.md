@@ -8081,3 +8081,6 @@
 ## 2026-07-10 - Rapihin struktur folder [2026-07-10] #5
 - Entry
 
+## 2026-07-10 - Optimasi query/performance [2026-07-10] #6
+- Entry
+
