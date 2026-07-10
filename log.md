@@ -20018,3 +20018,6 @@
 ## 2026-07-10 - Bersihin import [2026-07-10] #25
 - Entry
 
+## 2026-07-10 - Tambah contoh penggunaan [2026-07-10] #26
+- Entry
+
