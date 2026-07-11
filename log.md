@@ -1718,3 +1718,6 @@
 
 ## 2026-07-10 - Rapihin struktur folder [2026-07-10] #3
 - Entry
+
+## 2026-07-11 - Optimasi query/performance [2026-07-11] #1
+- Entry
