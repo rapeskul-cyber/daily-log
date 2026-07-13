@@ -8168,3 +8168,6 @@
 ## 2026-07-13 - Setup environment [2026-07-13] #4
 - Entry
 
+## 2026-07-13 - Review & rapikan kode [2026-07-13] #5
+- Entry
+
