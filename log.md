@@ -20168,3 +20168,6 @@
 ## 2026-07-13 - Fix bug kecil [2026-07-13] #24
 - Entry
 
+## 2026-07-13 - Tambah contoh penggunaan [2026-07-13] #25
+- Entry
+
