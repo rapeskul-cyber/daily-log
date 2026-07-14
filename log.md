@@ -20201,3 +20201,6 @@
 ## 2026-07-14 - Update dokumentasi [2026-07-14] #18
 - Entry
 
+## 2026-07-14 - Tambah contoh penggunaan [2026-07-14] #19
+- Entry
+
