@@ -20273,3 +20273,6 @@
 ## 2026-07-15 - Update dokumentasi [2026-07-15] #25
 - Entry
 
+## 2026-07-15 - Tambah contoh penggunaan [2026-07-15] #26
+- Entry
+
