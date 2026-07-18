@@ -20408,3 +20408,6 @@
 ## 2026-07-18 - Rapihin struktur folder [2026-07-18] #19
 - Entry
 
+## 2026-07-18 - Tambah contoh penggunaan [2026-07-18] #20
+- Entry
+
