@@ -20528,3 +20528,6 @@
 ## 2026-07-20 - Belajar hal baru hari ini [2026-07-20] #25
 - Entry
 
+## 2026-07-20 - Tambah contoh penggunaan [2026-07-20] #26
+- Entry
+
