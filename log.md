@@ -20648,3 +20648,6 @@
 ## 2026-07-23 - Tambah validasi input [2026-07-23] #14
 - Entry
 
+## 2026-07-23 - Tambah contoh penggunaan [2026-07-23] #15
+- Entry
+
