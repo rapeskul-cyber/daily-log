@@ -8507,3 +8507,6 @@
 ## 2026-07-24 - Perbaiki typo [2026-07-24] #7
 - Entry
 
+## 2026-07-24 - Setup environment [2026-07-24] #8
+- Entry
+
