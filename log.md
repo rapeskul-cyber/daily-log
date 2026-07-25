@@ -1844,3 +1844,6 @@
 
 ## 2026-07-24 - Dokumentasi API [2026-07-24] #3
 - Entry
+
+## 2026-07-25 - Catat ide project [2026-07-25] #1
+- Entry
