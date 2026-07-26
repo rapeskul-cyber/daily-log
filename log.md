@@ -8555,3 +8555,6 @@
 ## 2026-07-25 - Update README [2026-07-25] #13
 - Entry
 
+## 2026-07-26 - Setup environment [2026-07-26] #4
+- Entry
+
