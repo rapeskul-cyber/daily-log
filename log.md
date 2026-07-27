@@ -20885,3 +20885,6 @@
 ## 2026-07-27 - Fix bug kecil [2026-07-27] #25
 - Entry
 
+## 2026-07-27 - Tambah validasi input [2026-07-27] #26
+- Entry
+
