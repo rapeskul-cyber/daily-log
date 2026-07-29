@@ -8663,3 +8663,6 @@
 ## 2026-07-29 - Review & rapikan kode [2026-07-29] #9
 - Entry
 
+## 2026-07-29 - Setup environment [2026-07-29] #10
+- Entry
+
