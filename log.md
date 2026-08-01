@@ -8762,3 +8762,6 @@
 ## 2026-08-01 - Setup environment [2026-08-01] #12
 - Entry
 
+## 2026-08-01 - Catat ide project [2026-08-01] #13
+- Entry
+
