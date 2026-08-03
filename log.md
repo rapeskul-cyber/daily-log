@@ -21236,3 +21236,6 @@
 ## 2026-08-03 - Update changelog [2026-08-03] #23
 - Entry
 
+## 2026-08-03 - Rapihin struktur folder [2026-08-03] #24
+- Entry
+
