@@ -8831,3 +8831,6 @@
 ## 2026-08-04 - Review & rapikan kode [2026-08-04] #5
 - Entry
 
+## 2026-08-04 - Setup environment [2026-08-04] #6
+- Entry
+
