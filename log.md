@@ -8912,3 +8912,6 @@
 ## 2026-08-06 - Perbaiki typo [2026-08-06] #12
 - Entry
 
+## 2026-08-06 - Setup environment [2026-08-06] #13
+- Entry
+
