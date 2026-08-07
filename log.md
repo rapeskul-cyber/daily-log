@@ -21428,3 +21428,6 @@
 ## 2026-08-07 - Update changelog [2026-08-07] #19
 - Entry
 
+## 2026-08-07 - Update dependency [2026-08-07] #20
+- Entry
+
