@@ -1964,3 +1964,6 @@
 
 ## 2026-08-07 - Update README [2026-08-07] #1
 - Entry
+
+## 2026-08-07 - Setup environment [2026-08-07] #2
+- Entry
