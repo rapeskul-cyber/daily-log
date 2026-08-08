@@ -1970,3 +1970,6 @@
 
 ## 2026-08-07 - Tambah unit test [2026-08-07] #3
 - Entry
+
+## 2026-08-08 - Setup environment [2026-08-08] #1
+- Entry
