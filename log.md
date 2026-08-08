@@ -21509,3 +21509,6 @@
 ## 2026-08-08 - Update changelog [2026-08-08] #29
 - Entry
 
+## 2026-08-08 - Tambah validasi input [2026-08-08] #30
+- Entry
+
