@@ -8999,3 +8999,6 @@
 ## 2026-08-09 - Review & rapikan kode [2026-08-09] #11
 - Entry
 
+## 2026-08-09 - Optimasi query/performance [2026-08-09] #12
+- Entry
+
