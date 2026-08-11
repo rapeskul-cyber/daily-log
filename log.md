@@ -2000,3 +2000,6 @@
 
 ## 2026-08-11 - Dokumentasi API [2026-08-11] #1
 - Entry
+
+## 2026-08-11 - Rapihin struktur folder [2026-08-11] #2
+- Entry
