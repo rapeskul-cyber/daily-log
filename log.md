@@ -9104,3 +9104,6 @@
 ## 2026-08-13 - Setup environment [2026-08-13] #6
 - Entry
 
+## 2026-08-13 - Rapihin struktur folder [2026-08-13] #7
+- Entry
+
