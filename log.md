@@ -21821,3 +21821,6 @@
 ## 2026-08-15 - Rapihin error handling [2026-08-15] #14
 - Entry
 
+## 2026-08-15 - Tambah contoh penggunaan [2026-08-15] #15
+- Entry
+
