@@ -21968,3 +21968,6 @@
 ## 2026-08-17 - Code review [2026-08-17] #29
 - Entry
 
+## 2026-08-17 - Tambah contoh penggunaan [2026-08-17] #30
+- Entry
+
