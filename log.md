@@ -9302,3 +9302,6 @@
 ## 2026-08-19 - Update README [2026-08-19] #12
 - Entry
 
+## 2026-08-19 - Rapihin struktur folder [2026-08-19] #13
+- Entry
+
