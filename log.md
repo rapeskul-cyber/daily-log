@@ -9308,3 +9308,6 @@
 ## 2026-08-20 - Belajar hal baru hari ini [2026-08-20] #4
 - Entry
 
+## 2026-08-20 - Optimasi query/performance [2026-08-20] #5
+- Entry
+
