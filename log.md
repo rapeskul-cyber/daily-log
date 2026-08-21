@@ -9338,3 +9338,6 @@
 ## 2026-08-21 - Implementasi fitur baru [2026-08-21] #4
 - Entry
 
+## 2026-08-21 - Setup environment [2026-08-21] #5
+- Entry
+
