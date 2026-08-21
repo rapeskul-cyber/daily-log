@@ -22157,3 +22157,6 @@
 ## 2026-08-21 - Code review [2026-08-21] #24
 - Entry
 
+## 2026-08-21 - Tambah contoh penggunaan [2026-08-21] #25
+- Entry
+
