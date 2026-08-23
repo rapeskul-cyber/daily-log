@@ -22244,3 +22244,6 @@
 ## 2026-08-23 - Tambah validasi input [2026-08-23] #19
 - Entry
 
+## 2026-08-23 - Tambah contoh penggunaan [2026-08-23] #20
+- Entry
+
