@@ -22268,3 +22268,6 @@
 ## 2026-08-23 - Update dokumentasi [2026-08-23] #27
 - Entry
 
+## 2026-08-23 - Tambah contoh penggunaan [2026-08-23] #28
+- Entry
+
