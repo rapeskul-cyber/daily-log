@@ -22310,3 +22310,6 @@
 ## 2026-08-24 - Bersihin import [2026-08-24] #24
 - Entry
 
+## 2026-08-24 - Tambah contoh penggunaan [2026-08-24] #25
+- Entry
+
