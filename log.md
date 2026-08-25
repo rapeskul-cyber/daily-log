@@ -22364,3 +22364,6 @@
 ## 2026-08-25 - Test edge case [2026-08-25] #25
 - Entry
 
+## 2026-08-25 - Tambah contoh penggunaan [2026-08-25] #26
+- Entry
+
