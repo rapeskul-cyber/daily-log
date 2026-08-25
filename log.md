@@ -22373,3 +22373,6 @@
 ## 2026-08-25 - Dokumentasi API [2026-08-25] #28
 - Entry
 
+## 2026-08-25 - Rapihin error handling [2026-08-25] #29
+- Entry
+
