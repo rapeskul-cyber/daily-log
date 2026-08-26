@@ -9485,3 +9485,6 @@
 ## 2026-08-25 - Rapihin struktur folder [2026-08-25] #13
 - Entry
 
+## 2026-08-26 - Debug issue [2026-08-26] #4
+- Entry
+
