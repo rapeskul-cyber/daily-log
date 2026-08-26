@@ -22400,3 +22400,6 @@
 ## 2026-08-26 - Dokumentasi API [2026-08-26] #20
 - Entry
 
+## 2026-08-26 - Rapihin error handling [2026-08-26] #21
+- Entry
+
