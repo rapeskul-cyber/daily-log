@@ -2153,3 +2153,6 @@
 
 ## 2026-08-28 - Baca dokumentasi baru [2026-08-28] #1
 - Entry
+
+## 2026-08-28 - Setup environment [2026-08-28] #2
+- Entry
