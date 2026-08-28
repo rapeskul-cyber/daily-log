@@ -22520,3 +22520,6 @@
 ## 2026-08-28 - Tambah unit test [2026-08-28] #26
 - Entry
 
+## 2026-08-28 - Tambah validasi input [2026-08-28] #27
+- Entry
+
