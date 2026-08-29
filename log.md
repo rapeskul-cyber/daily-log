@@ -22532,3 +22532,6 @@
 ## 2026-08-28 - Setup environment [2026-08-28] #30
 - Entry
 
+## 2026-08-29 - Tambah contoh penggunaan [2026-08-29] #14
+- Entry
+
