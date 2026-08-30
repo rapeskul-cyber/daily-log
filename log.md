@@ -22592,3 +22592,6 @@
 ## 2026-08-30 - Rapihin struktur folder [2026-08-30] #16
 - Entry
 
+## 2026-08-30 - Rapihin error handling [2026-08-30] #17
+- Entry
+
