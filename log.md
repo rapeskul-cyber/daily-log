@@ -22601,3 +22601,6 @@
 ## 2026-08-30 - Setup environment [2026-08-30] #19
 - Entry
 
+## 2026-08-30 - Tambah contoh penggunaan [2026-08-30] #20
+- Entry
+
