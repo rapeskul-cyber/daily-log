@@ -22730,3 +22730,6 @@
 ## 2026-09-01 - Setup CI [2026-09-01] #28
 - Entry
 
+## 2026-09-01 - Tambah contoh penggunaan [2026-09-01] #29
+- Entry
+
