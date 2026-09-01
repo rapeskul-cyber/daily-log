@@ -22733,3 +22733,6 @@
 ## 2026-09-01 - Tambah contoh penggunaan [2026-09-01] #29
 - Entry
 
+## 2026-09-01 - Optimasi query/performance [2026-09-01] #30
+- Entry
+
