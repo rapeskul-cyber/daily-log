@@ -22949,3 +22949,6 @@
 ## 2026-09-06 - Baca dokumentasi baru [2026-09-06] #16
 - Entry
 
+## 2026-09-06 - Tambah contoh penggunaan [2026-09-06] #17
+- Entry
+
