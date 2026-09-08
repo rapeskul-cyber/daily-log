@@ -23063,3 +23063,6 @@
 ## 2026-09-08 - Tambah logging [2026-09-08] #20
 - Entry
 
+## 2026-09-08 - Tambah contoh penggunaan [2026-09-08] #21
+- Entry
+
