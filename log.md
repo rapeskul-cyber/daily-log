@@ -9947,3 +9947,6 @@
 ## 2026-09-10 - Perbaiki typo [2026-09-10] #7
 - Entry
 
+## 2026-09-10 - Setup environment [2026-09-10] #8
+- Entry
+
