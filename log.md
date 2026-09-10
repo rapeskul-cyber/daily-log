@@ -9938,3 +9938,6 @@
 ## 2026-09-10 - Setup environment [2026-09-10] #4
 - Entry
 
+## 2026-09-10 - Rapihin struktur folder [2026-09-10] #5
+- Entry
+
