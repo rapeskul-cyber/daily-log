@@ -23354,3 +23354,6 @@
 ## 2026-09-14 - Update changelog [2026-09-14] #15
 - Entry
 
+## 2026-09-14 - Tambah contoh penggunaan [2026-09-14] #16
+- Entry
+
