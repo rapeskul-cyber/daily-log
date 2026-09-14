@@ -23390,3 +23390,6 @@
 ## 2026-09-14 - Update changelog [2026-09-14] #27
 - Entry
 
+## 2026-09-14 - Rapihin error handling [2026-09-14] #28
+- Entry
+
