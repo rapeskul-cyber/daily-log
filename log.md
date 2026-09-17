@@ -23507,3 +23507,6 @@
 ## 2026-09-17 - Tambah logging [2026-09-17] #15
 - Entry
 
+## 2026-09-17 - Tambah contoh penggunaan [2026-09-17] #16
+- Entry
+
