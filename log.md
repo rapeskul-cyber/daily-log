@@ -23528,3 +23528,6 @@
 ## 2026-09-17 - Rapihin struktur folder [2026-09-17] #22
 - Entry
 
+## 2026-09-17 - Tambah contoh penggunaan [2026-09-17] #23
+- Entry
+
