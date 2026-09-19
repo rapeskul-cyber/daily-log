@@ -2348,3 +2348,6 @@
 
 ## 2026-09-18 - Perbaiki typo [2026-09-18] #3
 - Entry
+
+## 2026-09-19 - Setup environment [2026-09-19] #1
+- Entry
