@@ -23663,3 +23663,6 @@
 ## 2026-09-20 - Baca dokumentasi baru [2026-09-20] #16
 - Entry
 
+## 2026-09-20 - Tambah contoh penggunaan [2026-09-20] #17
+- Entry
+
