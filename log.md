@@ -23693,3 +23693,6 @@
 ## 2026-09-20 - Update changelog [2026-09-20] #26
 - Entry
 
+## 2026-09-20 - Test edge case [2026-09-20] #27
+- Entry
+
